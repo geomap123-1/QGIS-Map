@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-11-26T23:10:46Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/175397090",
+        "addr:city": "Podgorica",
+        "addr:housenumber": "bb",
+        "addr:postcode": "81000",
+        "addr:street": "Ljubljanska",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Klinički centar Crne Gore"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.2433307,
+              42.4388269
+            ],
+            [
+              19.2432413,
+              42.4387297
+            ],
+            [
+              19.2429741,
+              42.4380418
+            ],
+            [
+              19.2427886,
+              42.4373735
+            ],
+            [
+              19.2427258,
+              42.4369422
+            ],
+            [
+              19.2427312,
+              42.4362233
+            ],
+            [
+              19.2428599,
+              42.4355667
+            ],
+            [
+              19.2457495,
+              42.4358193
+            ],
+            [
+              19.247736,
+              42.4360789
+            ],
+            [
+              19.2477541,
+              42.436197
+            ],
+            [
+              19.2477585,
+              42.4367746
+            ],
+            [
+              19.247773,
+              42.4369238
+            ],
+            [
+              19.2479142,
+              42.4369203
+            ],
+            [
+              19.2478953,
+              42.4370106
+            ],
+            [
+              19.2477929,
+              42.4372401
+            ],
+            [
+              19.2477589,
+              42.4382192
+            ],
+            [
+              19.245949,
+              42.4385119
+            ],
+            [
+              19.2458907,
+              42.4385213
+            ],
+            [
+              19.2458071,
+              42.4385335
+            ],
+            [
+              19.2441777,
+              42.4387714
+            ],
+            [
+              19.2434201,
+              42.4388513
+            ],
+            [
+              19.2433307,
+              42.4388269
+            ]
+          ]
+        ]
+      },
+      "id": "way/175397090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/197510017",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dom zdravlja",
+        "name:sr": "Дом здравља"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.2680862,
+              42.4402849
+            ],
+            [
+              19.2683506,
+              42.4399303
+            ],
+            [
+              19.2685089,
+              42.4398892
+            ],
+            [
+              19.2688584,
+              42.4401147
+            ],
+            [
+              19.268715,
+              42.4404502
+            ],
+            [
+              19.2680862,
+              42.4402849
+            ]
+          ]
+        ]
+      },
+      "id": "way/197510017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/225682481",
+        "amenity": "hospital",
+        "building": "yes",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Centralni dom zdravlja Stari Aerodrom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.278437,
+              42.4309377
+            ],
+            [
+              19.278237,
+              42.430588
+            ],
+            [
+              19.2787259,
+              42.4304357
+            ],
+            [
+              19.2787872,
+              42.4305429
+            ],
+            [
+              19.2786316,
+              42.4305913
+            ],
+            [
+              19.2786963,
+              42.4307045
+            ],
+            [
+              19.2785368,
+              42.4307542
+            ],
+            [
+              19.2786108,
+              42.4308836
+            ],
+            [
+              19.278437,
+              42.4309377
+            ]
+          ]
+        ]
+      },
+      "id": "way/225682481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/284063423",
+        "addr:city": "Podgorica",
+        "addr:street": "Radosava Burića",
+        "amenity": "hospital",
+        "building": "hospital",
+        "healthcare": "hospital",
+        "name": "CODRA",
+        "website": "http://www.codrahospital.com"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.2542802,
+              42.4292569
+            ],
+            [
+              19.2544386,
+              42.4291505
+            ],
+            [
+              19.2546735,
+              42.429341
+            ],
+            [
+              19.2545152,
+              42.4294474
+            ],
+            [
+              19.2544159,
+              42.4293668
+            ],
+            [
+              19.2542802,
+              42.4292569
+            ]
+          ]
+        ]
+      },
+      "id": "way/284063423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368628194",
+        "addr:street": "Mirka Banjevića",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centralni dom zdravlja Stari Aerodrom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.2784706,
+              42.4309619
+            ],
+            [
+              19.2782742,
+              42.4305891
+            ],
+            [
+              19.2787722,
+              42.4304234
+            ],
+            [
+              19.2788634,
+              42.4306046
+            ],
+            [
+              19.2788564,
+              42.4307134
+            ],
+            [
+              19.2788194,
+              42.430805
+            ],
+            [
+              19.278653,
+              42.4309049
+            ],
+            [
+              19.2784706,
+              42.4309619
+            ]
+          ]
+        ]
+      },
+      "id": "way/368628194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/308978434",
+        "addr:street": "Vaka Đurovića",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hitna pomoć",
+        "name:sr": "Хитна помоћ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2626088,
+          42.4456312
+        ]
+      },
+      "id": "node/308978434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/309274533",
+        "addr:street": "Aleksandra Puškina",
+        "amenity": "hospital",
+        "check_date": "2024-11-07",
+        "healthcare": "hospital",
+        "name": "Dom zdravlja Konik",
+        "name:sr": "Дом здравља Коник"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2819026,
+          42.437135
+        ]
+      },
+      "id": "node/309274533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/309710011",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dom zdravlja Pobrežje"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2585181,
+          42.4309282
+        ]
+      },
+      "id": "node/309710011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/310439507",
+        "addr:city": "Podgorica",
+        "addr:housenumber": "6",
+        "addr:postcode": "81000",
+        "addr:street": "Trg Nikole Kovačevića",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dom zdravlja Blok 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2433933,
+          42.4462195
+        ]
+      },
+      "id": "node/310439507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2418334755",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Emergency Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2626488,
+          42.4456953
+        ]
+      },
+      "id": "node/2418334755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4401310290",
+        "addr:city": "Podgorica",
+        "addr:housenumber": "58/3",
+        "addr:postcode": "81000",
+        "addr:street": "Bulevar Ivana Crnojevića",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Feniks Medika",
+        "opening_hours": "Mo-Fr 07:30-20:00; Sa 07:30-14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2654957,
+          42.4432487
+        ]
+      },
+      "id": "node/4401310290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5012186753",
+        "amenity": "hospital",
+        "name": "Hipokrat",
+        "name:sr-Latn": "Hipokrat centar za magnentu rezonancu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2678298,
+          42.463232
+        ]
+      },
+      "id": "node/5012186753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5461934246",
+        "addr:city": "Podgorica",
+        "addr:housenumber": "34",
+        "addr:postcode": "81000",
+        "addr:street": "Ivangradska",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Dom zdravlja Tološi",
+        "name:sr": "Дом здравља Толоши"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2245577,
+          42.4524364
+        ]
+      },
+      "id": "node/5461934246"
+    }
+  ]
+}
